@@ -54,11 +54,11 @@ Detection example:
 ![Sample Detection](https://github.com/tharunjakkam939/Custom-object-detection-tracking/blob/9f37e0225f0600767a0c98d03d347aa504c6bbb0/Custom-object-detection.png)
 
 Tracking & Re-ID example:
-![Tracking Demo](tharun3.mp4)
+![Tracking Demo]Due to bigger size i didnt upload output  file(tharun3.mp4)
 
 
 
-## 📧 Contact
+ 📧 Contact
 
 Email: [tharunjakkam2004@gmail.com](mailto:tharunjakkam2004@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/tharun-jakkam-123733336/](https://www.linkedin.com/posts/tharun-jakkam-123733336_python-cisconetworkingacademy-activity-7305889245720645633-NYr1?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFR4O-sB7bz0mQYJtxQKxdkXTLzmw_laTpg&utm_campaign=whatsapp)

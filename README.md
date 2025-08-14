@@ -25,8 +25,8 @@ The project covers deep learning fundamentals, neural network architectures, cus
 
 ## 📦 Installation
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<tharunjakkam939>/<Custom-object-detection-tracking>.git
+cd <>
 pip install -r requirements.txt
 
 

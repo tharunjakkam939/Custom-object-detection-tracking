@@ -54,7 +54,7 @@ Detection example:
 ![Sample Detection](https://github.com/tharunjakkam939/Custom-object-detection-tracking/blob/main/Custom-object-detection.png?raw=true)
 
 Tracking & Re-ID example:
-![Tracking Demo](.mp4)
+![Tracking Demo](tharun3.mp4)
 
 
 

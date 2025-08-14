@@ -51,7 +51,7 @@ python src/tracking_reid.py`
 
 Sample Outputs
 Detection example:
-![Sample Detection]()
+![Sample Detection](https://github.com/tharunjakkam939/Custom-object-detection-tracking/blob/9f37e0225f0600767a0c98d03d347aa504c6bbb0/Custom-object-detection.png)
 
 Tracking & Re-ID example:
 ![Tracking Demo](tharun3.mp4)

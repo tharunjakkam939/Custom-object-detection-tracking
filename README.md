@@ -20,7 +20,7 @@ The project covers deep learning fundamentals, neural network architectures, cus
 - **/outputs** — Sample detection and tracking results (images/videos).
 - **/datasets** — Dataset instructions (dataset not included for confidentiality).
 - **requirements.txt** — Python dependencies.
-- **Internship_Report.pdf** — Detailed internship report.
+
 
 
 ## 📦 Installation

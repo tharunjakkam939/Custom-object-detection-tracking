@@ -7,7 +7,6 @@ To train the model:
 2. Annotate images using [LabelImg](https://github.com/heartexlabs/labelImg) or [Roboflow](https://roboflow.com/).
 3. Save in YOLO format.
 4. Organize as:
-```
 dataset/
    images/
        train/

@@ -1,0 +1,17 @@
+# Dataset Instructions
+
+The dataset used in this project is **not included** due to size and confidentiality restrictions.
+
+To train the model:
+1. Prepare a dataset of your objects.
+2. Annotate images using [LabelImg](https://github.com/heartexlabs/labelImg) or [Roboflow](https://roboflow.com/).
+3. Save in YOLO format.
+4. Organize as:
+```
+dataset/
+   images/
+       train/
+       val/
+   labels/
+       train/
+       val/

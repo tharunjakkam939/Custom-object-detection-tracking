@@ -59,8 +59,8 @@ Tracking & Re-ID example:
 
 ## 📧 Contact
 
-Email: [your.email@example.com](mailto:tharunjakkam2004@gmail.com)
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/posts/tharun-jakkam-123733336_python-cisconetworkingacademy-activity-7305889245720645633-NYr1?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFR4O-sB7bz0mQYJtxQKxdkXTLzmw_laTpg&utm_campaign=whatsapp)
+Email: [tharunjakkam2004@gmail.com](mailto:tharunjakkam2004@gmail.com)
+LinkedIn: [https://www.linkedin.com/posts/tharun-jakkam-123733336_python-cisconetworkingacademy-activity-7305889245720645633-NYr1?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFR4O-sB7bz0mQYJtxQKxdkXTLzmw_laTpg&utm_campaign=whatsapp](https://www.linkedin.com/posts/tharun-jakkam-123733336_python-cisconetworkingacademy-activity-7305889245720645633-NYr1?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFR4O-sB7bz0mQYJtxQKxdkXTLzmw_laTpg&utm_campaign=whatsapp)
 
 
 
